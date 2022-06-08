@@ -56,6 +56,6 @@ are available on RPubs.
 
 * Final project submission (Shiny App): <a target="_blank"  href="https://moolchandani.shinyapps.io/WordPredictor/">https://moolchandani.shinyapps.io/WordPredictor/</a>
 
-* Final project submission (Presentation): <a target="_blank"  href=""></a>
+* Final project submission (Presentation): <a target="_blank"  href="https://rpubs.com/moolchandani/912114">https://rpubs.com/moolchandani/912114</a>
 
-* Source code files available on GitHub: <a target="_blank"   href=""></a>
+* Source code files available on GitHub: <a target="_blank"   href="https://github.com/moolchandani/Data-Science-Capstone-Final-Project">https://github.com/moolchandani/Data-Science-Capstone-Final-Project</a>
