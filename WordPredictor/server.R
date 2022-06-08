@@ -48,7 +48,6 @@ ngrams <- function(input_text){
     return(nextWord)
 }
 
-
 ## Create Ngram Matching Functions
 
 bigram <- function(input_words){
